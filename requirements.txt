@@ -4,4 +4,4 @@ heroku==0.1.4
 idna==2.8
 python-dateutil==1.5
 requests==2.22.0
-urllib3==1.25.3
+urllib3==1.26.5
